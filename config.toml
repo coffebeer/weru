@@ -1,0 +1,4 @@
+baseURL = "https://poemskerenstu.vercel.app"
+languageCode = "en-us"
+title = "free poems for someone"
+theme = "tale"
